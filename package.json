@@ -19,6 +19,7 @@
 		"babel-preset-stage-2": "^6.24.1",
 		"babelify": "^8.0.0",
 		"es2015": "0.0.0",
+		"foundation-sites": "^6.4.4-rc1",
 		"grunt-browserify": "^5.2.0",
 		"grunt-contrib-connect": "^1.0.2",
 		"grunt-contrib-sass": "^1.0.0",

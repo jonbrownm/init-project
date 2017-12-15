@@ -32,6 +32,8 @@ This is defined in the package.json and should be set when the project is replic
 
 Foundation is available in this project (needs to be added). The imported components can be customised as required. The settings file includes variables that can be customized for each component. The full documentation for Foundation can be found at <https://foundation.zurb.com/sites/docs/>.
 
+`npm install foundation-sites`
+
 ## Repository structure
 The following information details the structure of the codebase…
 

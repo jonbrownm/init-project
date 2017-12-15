@@ -1,4 +1,7 @@
-@import '../../bower_components/foundation-sites/scss/foundation';
+@import '../../node_modules/foundation-sites/scss/foundation';
+
+// settings
+@import 'global/settings';
 
 @include foundation-global-styles;
 // @include foundation-xy-grid-classes;
@@ -41,8 +44,8 @@
 // @include foundation-visibility-classes;
 // @include foundation-float-classes;
 
-// globals
-@import "global/common";
+// global
+@import 'global/common';
 
 // components
-@import "components/generic-component";
+@import 'components/generic-component';
