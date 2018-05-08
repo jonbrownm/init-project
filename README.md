@@ -32,6 +32,8 @@ This is defined in the package.json and should be set when the project is replic
 
 The Foundation framework is available in this project and it can be customised as required. It is a responsive front-end framework that make it simple to develop websites and applications. The HTML, CSS & Javascript can be fully customised. The full documentation for Foundation can be found at <https://foundation.zurb.com/sites/docs/>.
 
+* `npm i`
+
 ## Repository structure
 The following information details the structure of the codebase…
 
